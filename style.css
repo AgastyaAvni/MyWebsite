@@ -1,0 +1,41 @@
+h1{ 
+    color: teal
+}
+
+.header{
+    background:rgb(243, 186, 237);
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro{
+
+    display:flex;
+    flex-direction: column ;
+
+}
+h2,p{
+    text-align: center;
+}
+
+
+.games{
+
+    display:flex;
+    
+    flex-wrap:wrap;
+
+    
+}
+
+
+.game{
+
+    display:flex;
+    
+    flex-wrap:wrap;
+
+    
+}
+
+
